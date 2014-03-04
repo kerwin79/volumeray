@@ -3,7 +3,7 @@ Tim Thirion
 CS 530 - Purdue University  
 Fall 2004
 
-This is an old and slow CPU implementation of the volume rendering by raycasting
+This is an old and slow CPU implementation of the volume rendering by ray casting
 algorithm.
 
 See Main.cpp for compile-time parameters.
